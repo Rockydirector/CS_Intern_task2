@@ -73,7 +73,14 @@ flowchart TD
 - Avoid clicking **unexpected links or attachments**.  
 - Use **multi-factor authentication (MFA)**.  
 
----
+### Example of a Phishing Email  
+Below are examples of how phishing emails often appear:
+
+**[Spam Email Example 1](./spam1.png)**  
+*Example 1: Fake "Account Verification" email designed to steal credentials.*
+
+**[Spam Email Example 2](./spam2.png)**  
+*Example 2: Urgent "Order Conformation" email tricking the user into opening a malicious file.*
 
 ## Full Step-by-Step Process with Screenshots
 We’ve created a detailed PDF guide showing:  
