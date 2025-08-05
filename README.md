@@ -37,16 +37,6 @@ It usually happens through emails, but can also occur via SMS (smishing), calls 
 
 ---
 
-## How to Spot Phishing Emails
-
-- Suspicious **sender address** (e.g., `support@paypa1.com`).  
-- **Urgent or threatening language** ("Act now or your account will be locked!").  
-- **Generic greetings** ("Dear Customer").  
-- **Mismatched URLs** (hovering shows a different link).  
-- **Unexpected attachments** or requests for personal info.  
-
----
-
 ## Example Scenario
 
 > You get an email from "Bank Support" saying:  
